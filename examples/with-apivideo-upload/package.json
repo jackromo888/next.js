@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@api.video/nodejs-client": "2.2.5",
+    "@api.video/nodejs-client": "2.2.8",
     "@api.video/player-sdk": "1.2.13",
     "@api.video/video-uploader": "1.0.4",
     "@types/styled-components": "5.1.24",
