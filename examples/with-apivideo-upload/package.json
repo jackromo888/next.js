@@ -9,7 +9,7 @@
     "@api.video/nodejs-client": "2.2.5",
     "@api.video/player-sdk": "1.2.13",
     "@api.video/video-uploader": "1.0.4",
-    "@types/styled-components": "5.1.24",
+    "@types/styled-components": "5.1.26",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0",
