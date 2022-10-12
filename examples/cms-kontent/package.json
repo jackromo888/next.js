@@ -8,7 +8,7 @@
   "dependencies": {
     "@kentico/kontent-delivery": "^11.13.0",
     "classnames": "2.3.1",
-    "date-fns": "2.28.0",
+    "date-fns": "2.29.2",
     "gray-matter": "4.0.3",
     "next": "latest",
     "react": "^18.1.0",
