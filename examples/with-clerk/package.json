@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@clerk/nextjs": "4.5.1",
+    "@clerk/nextjs": "4.6.13",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
