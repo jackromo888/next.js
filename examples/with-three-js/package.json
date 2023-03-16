@@ -11,6 +11,6 @@
     "next": "latest",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "three": "0.139.2"
+    "three": "0.150.0"
   }
 }
